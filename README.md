@@ -1,6 +1,6 @@
 # Analise de Vendas Olist Store
 
-![Dashboard de Vendas](docs\screenshots\dashboard.png)
+![Dashboard de Vendas](docs/screenshots/dashboard.png)
 
 ## Sobre o Projeto
  Esse projeto analisa diversos dados sobre a Olist Store, como a visão geral, os clientes mais valiosos e quais compraram uma única vez, regiões do Brasil mais lucrativas, tempo de entrega, etc.
